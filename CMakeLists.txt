@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 4.0)
-project(adventofcode2025day1)
+project(adventofcode2025)
 
 set(CMAKE_CXX_STANDARD 20)
-
-add_executable(adventofcode2025day1 main.cpp)
+## day 1
+add_executable(Day01 Day01/main.cpp)
+## day 2
