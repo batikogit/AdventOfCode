@@ -3,6 +3,7 @@
 A collection of my solutions for the [Advent of Code](https://adventofcode.com/) challenges, implemented in **C++**.
 
 ## Progress
+**Advent of Code 2025**
 | Day | Title | Solution |
 |:---:|:---|:---:|
 | 01 | Safe Dial Calibration | [Day01/](./Day01) |
