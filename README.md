@@ -6,7 +6,7 @@ A collection of my solutions for the [Advent of Code](https://adventofcode.com/)
 **Advent of Code 2025**
 | Day | Title | Solution |
 |:---:|:---|:---:|
-| 01 | Safe Dial Calibration | [Day01/](./Day01) |
+| 01 | Safe Dial Calibration | [Day01/](Day01p1) |
 
 ## Setup
 Solutions are developed using **CLion** and compiled with **CMake**. 
