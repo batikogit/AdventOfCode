@@ -1,5 +1,5 @@
 /**
-* Advent of Code 2025 - Day 1
+* Advent of Code 2025 - Day 1 Part 1
  * problem: Dial Calibration Logic
  * logic: Circular buffer (0-99) with R/L wrap-around.
  */
