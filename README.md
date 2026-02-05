@@ -8,6 +8,7 @@ A collection of my solutions for the [Advent of Code](https://adventofcode.com/)
 |:---:|:---|:---:|
 | 01 | Safe Dial Calibration | [Day01/](day01) |
 | 02 | Mirrored Digits Sums | [Day02/](day02) |
+| 03 | Joltage Calculation | [Day03/](day03) |
 
 ## Setup
 Solutions are developed using **CLion** and compiled with **CMake**. 
